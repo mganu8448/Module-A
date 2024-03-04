@@ -1,0 +1,3 @@
+[submodule "Module-B"]
+	path = Module-B
+	url = https://github.com/mganu8448/Module-B.git
