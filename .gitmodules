@@ -4,3 +4,6 @@
 [submodule "Module-C"]
 	path = Module-C
 	url = https://github.com/mganu8448/Module-C.git
+[submodule "Module-D"]
+	path = Module-D
+	url = https://github.com/mganu8448/Module-D.git
