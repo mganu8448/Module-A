@@ -7,3 +7,6 @@
 [submodule "Module-D"]
 	path = Module-D
 	url = https://github.com/mganu8448/Module-D.git
+[submodule "Module-E"]
+	path = Module-E
+	url = https://github.com/mganu8448/Module-E.git
